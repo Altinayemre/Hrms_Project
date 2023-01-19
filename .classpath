@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="hrmsProject/.mvn/wrapper"/>
+	<classpathentry kind="src" path="hrmsProject/src/main/java"/>
+	<classpathentry kind="src" path="hrmsProject/src/test/java"/>
+	<classpathentry kind="output" path="hrmsProject/target/classes"/>
+</classpath>
